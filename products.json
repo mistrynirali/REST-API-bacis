@@ -1,0 +1,37 @@
+[
+    {
+        "name": "iphone10",
+        "price": 699,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 899,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "x200",
+        "price": 399,
+        "company": "samsung"
+    },
+    {
+        "name": "13Cphone14",
+        "price": 199,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "12A",
+        "price": 899,
+        "company": "mi"
+    },
+    {
+        "name": "S24",
+        "price": 899,
+        "featured": true,
+        "company": "samsung"
+    }
+
+]
